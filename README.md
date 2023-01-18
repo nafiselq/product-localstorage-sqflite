@@ -1,6 +1,6 @@
 # todo_product_local
 
-A new Flutter project.
+Aplikasi To do product menggunakan database local storage Sqflite
 
 ## Getting Started
 
